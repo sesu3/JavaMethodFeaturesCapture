@@ -1,0 +1,15 @@
+* * * * * * * * * * * * * * * * * * * * * * * * * 
+
+このディレクトリについて
+
+* * * * * * * * * * * * * * * * * * * * * * * * * 
+
+
+このディレクトリにはJavaMethodFeaturesCaptureで使用するメトリクス測定ツールを配置します．
+http://se.cite.ehime-u.ac.jp/tool/　より，次に示すjarファイルを配置してください．
+
+・CyclomaticNumberCounter.jar
+・LOCCounter.jar
+・NestLevelMeter.jar
+
+最終更新：2017-02-12 (s_suzuki@se.cite.ehime-u.ac.jp)
